@@ -1,0 +1,8 @@
+names:
+- circle
+- hexagon
+- square
+nc: 3
+train: C:/Projects/shape_detector_pc/Pla_Objects-1/train/images
+val: C:/Projects/shape_detector_pc/Pla_Objects-1/valid/images
+test: C:/Projects/shape_detector_pc/Pla_Objects-1/test/images

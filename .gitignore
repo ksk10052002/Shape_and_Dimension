@@ -1,0 +1,10 @@
+venv/
+.env
+runs/
+*.pt
+datasets/
+__pycache__/
+dataset_raw/
+train/
+valid/
+test/

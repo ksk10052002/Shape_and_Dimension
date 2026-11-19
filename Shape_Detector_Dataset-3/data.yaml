@@ -1,0 +1,14 @@
+names:
+- Break_Pad_Shape
+- Circle
+- Clyinder
+- Disc
+- Hexagon
+- Rectangle
+- Ring
+- Segment
+- Square
+nc: 9
+train: C:/Projects/shape_detector_pc/Shape_Detector_Dataset-3/train/images
+val: C:/Projects/shape_detector_pc/Shape_Detector_Dataset-3/valid/images
+test: C:/Projects/shape_detector_pc/Shape_Detector_Dataset-3/test/images

@@ -1,0 +1,9 @@
+{
+  "square_max_aspect": 1.12,
+  "size_tolerance_mm": 2.0,
+  "round_sizes_mm": {
+    "circle": null,
+    "disc": null,
+    "cylinder": null
+  }
+}

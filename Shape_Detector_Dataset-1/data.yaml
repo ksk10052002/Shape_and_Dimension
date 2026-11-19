@@ -1,0 +1,13 @@
+names:
+- Circle
+- Clyinder
+- Disc
+- Hexagon
+- Rectangle
+- Ring
+- Segment
+- Square
+nc: 8
+train: C:/Projects/shape_detector_pc/Shape_Detector_Dataset-1/train/images
+val: C:/Projects/shape_detector_pc/Shape_Detector_Dataset-1/valid/images
+test: C:/Projects/shape_detector_pc/Shape_Detector_Dataset-1/test/images

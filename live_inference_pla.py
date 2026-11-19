@@ -5,7 +5,7 @@ import cv2
 import time
 from ultralytics import YOLO
 
-MODEL_PATH = "runs/train/pla_shapes_v1/weights/best.pt"
+MODEL_PATH = "runs/train/shape_detector_dataset-1_v1/weights/best.pt"
 CAMERA_INDEX = 0
 FRAME_WIDTH = 1280
 FRAME_HEIGHT = 720

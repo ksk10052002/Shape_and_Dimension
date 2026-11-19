@@ -4,7 +4,7 @@ os.environ.setdefault("QT_QPA_PLATFORM", "xcb")
 import cv2
 import time
 
-OUTPUT_DIR = "dataset_raw"
+OUTPUT_DIR = "dataset_real_magnets"
 CAMERA_INDEX = 0
 FRAME_WIDTH = 1920
 FRAME_HEIGHT = 1080
